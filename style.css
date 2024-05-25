@@ -80,3 +80,12 @@ body{
         transform: translateX(0);
     }
 }
+.footer{
+    align-items: center;
+    padding-top: 10px;
+}
+.footer-text{
+    color: aqua;
+    align-items: center;
+    padding-left: 310px;
+}
