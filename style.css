@@ -81,11 +81,11 @@ body{
     }
 }
 .footer{
-    align-items: center;
-    padding-top: 10px;
+    padding-top: 500px;
+    padding-left: 745px;
 }
 .footer-text{
-    color: aqua;
-    align-items: center;
-    padding-left: 310px;
+   
+    color: chocolate;
+
 }
